@@ -1,0 +1,1 @@
+Al fine di lanciare l'automazione dei test occorre eseguire il seguente comando: "mvn clean install"
